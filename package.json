@@ -26,5 +26,10 @@
   },
   "engines": {
     "node": ">=20.0.0"
-  }
+  },
+  "description": "Start coding a react application",
+  "main": "deploy-to-github.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
